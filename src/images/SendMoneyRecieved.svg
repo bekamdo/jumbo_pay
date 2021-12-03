@@ -1,0 +1,30 @@
+<svg id="Component_150_1" data-name="Component 150 – 1" xmlns="http://www.w3.org/2000/svg" width="580" height="576" viewBox="0 0 580 576">
+  <g id="Ellipse_301" data-name="Ellipse 301" fill="none" stroke="#fff" stroke-width="8">
+    <circle cx="288" cy="288" r="288" stroke="none"/>
+    <circle cx="288" cy="288" r="284" fill="none"/>
+  </g>
+  <text id="Send-Receive_Money" data-name="Send-Receive
+ Money" transform="translate(279 394.5)" fill="#fff" font-size="54" font-family="Metropolis-Medium, Metropolis" font-weight="500"><tspan x="-178.092" y="0">Send-Receive</tspan><tspan x="-96.255" y="76" xml:space="preserve"> Money</tspan></text>
+  <g id="Group_4440" data-name="Group 4440" transform="translate(2075 -217)" opacity="0">
+    <circle id="Ellipse_304" data-name="Ellipse 304" cx="288" cy="288" r="288" transform="translate(-2071 217)" fill="#fff"/>
+    <text id="P2P_Cross_border_Bank_to_e-wallet_and_e-wallet_to_bank" data-name="P2P, Cross border, 
+Bank to e-wallet and 
+e-wallet to bank" transform="translate(-1776 390)" font-size="37" font-family="Metropolis-Bold, Metropolis" font-weight="700"><tspan x="-174.714" y="0">P2P, Cross border, </tspan><tspan x="-192.104" y="78">Bank to e-wallet and </tspan><tspan x="-146.742" y="156">e-wallet to bank</tspan></text>
+    <rect id="BG" width="257.694" height="96.626" rx="12" transform="translate(-1919.13 594.961)" fill="#0aa114"/>
+    <text id="Try_it_now_" data-name="Try it now
+" transform="translate(-1804 654)" fill="#fff" font-size="29" font-family="Metropolis-SemiBold, Metropolis" font-weight="600" letter-spacing="-0.015em"><tspan x="-69.107" y="0">Try it now</tspan><tspan x="0" y="15"></tspan></text>
+    <g id="Group_4435" data-name="Group 4435" transform="translate(-1741.134 635.081)">
+      <path id="Path_3959" data-name="Path 3959" d="M0,0,10.356,12.547,21.907,0" transform="matrix(-0.017, -1, 1, -0.017, 18.255, 22.123)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="4"/>
+    </g>
+  </g>
+  <g id="send_money" data-name="send money" transform="translate(103.287 83.713)">
+    <g id="Group_8" data-name="Group 8" transform="translate(109.774 40.619)">
+      <g id="Group_6" data-name="Group 6" transform="translate(0 56.314) rotate(-90)">
+        <path id="Path_181" data-name="Path 181" d="M24.571,130.825,1.04,98.874c-2.159-3.67-.863-5.613,3.022-6.045H20.9v-87A5.8,5.8,0,0,1,26.73,0h0a5.856,5.856,0,0,1,6.045,5.829v87H50.909c5.613.216,6.476,2.375,4.318,6.045L28.673,130.825C27.594,132.12,26.082,132.336,24.571,130.825Z" transform="translate(0)" fill="#fff" fill-rule="evenodd"/>
+      </g>
+      <g id="Group_7" data-name="Group 7" transform="translate(0 117.632) rotate(-90)">
+        <path id="Path_181-2" data-name="Path 181" d="M24.571,1.054,1.04,33c-2.159,3.67-.863,5.613,3.022,6.045H20.9v87a5.8,5.8,0,0,0,5.829,5.829h0a5.856,5.856,0,0,0,6.045-5.829v-87H50.909c5.613-.216,6.476-2.375,4.318-6.045L28.673,1.054C27.594-.241,26.082-.457,24.571,1.054Z" transform="translate(0 0)" fill="#fff" fill-rule="evenodd"/>
+      </g>
+    </g>
+  </g>
+</svg>

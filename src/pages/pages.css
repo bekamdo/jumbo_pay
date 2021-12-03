@@ -1,0 +1,259 @@
+.pages {
+  width: 100vw;
+  height: 100vh;
+
+  background-image: url("../images/woman-01.png"),
+    linear-gradient(to bottom, #034080, #034080, #022850, #011b35, #011b35);
+
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: #eeee;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.page__container {
+  padding: 40px;
+  display: flex;
+  position: relative;
+}
+.page__left {
+  flex: 0.5;
+}
+.page__leftContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  margin-top: 60px;
+}
+.page__leftContainer > h1 {
+  letter-spacing: 0.5px;
+  margin-bottom: 11px;
+  font-weight: bolder;
+  font-size: 36px;
+  line-height: 1.5;
+}
+.page__leftContainer > h3 {
+  margin-bottom: 11px;
+  font-weight: 100;
+  white-space: 2rem;
+  letter-spacing: 0.5px;
+}
+.pages__button {
+  margin-top: 50px;
+  display: flex;
+}
+.pages__button > button {
+  padding: 20px;
+  width: 150px;
+  margin-right: 30px;
+  font-size: 16px;
+  cursor: pointer;
+  font-weight: bolder;
+  border-radius: 5px;
+  border: 2px solid whitesmoke;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.pages__button2 {
+  background-color: transparent;
+  color: #eeee;
+}
+.pages__button2:hover {
+  background-color: #eeee;
+  color: black;
+  font-weight: bolder;
+  transition: 0.3s linear;
+  transform: scale(1, 1.05);
+}
+.pages__button1:hover {
+  background-color: transparent;
+  color: #eee;
+  font-weight: bolder;
+  transition: 0.3s linear;
+  transform: scale(1, 1.05);
+}
+.pages_direction {
+  margin-left: 5px;
+  font-weight: bolder;
+  font-size: 16px;
+}
+
+.page__right {
+  flex: 0.5;
+  display: flex;
+  flex-direction: column;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+}
+
+.page__rightContainer {
+  margin-right: 20px;
+  width: 400px;
+  height: 400px;
+  background-color: rgba(255, 255, 255, 0.1);
+  padding: 50px;
+  border-radius: 5px;
+  backdrop-filter: blur(5px);
+  border: 1px solid transparent;
+  background-clip: border-box;
+  box-shadow: 10px 10px 10px rgba(45, 55, 68, 0.3);
+  color: #eeee;
+  position: relative;
+}
+.page__containerImage {
+  place-items: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.page__containerImage > img {
+  height: 100px;
+  width: 100px;
+  margin: 15px;
+  cursor: pointer;
+}
+.page__containerImage > img:hover {
+  transition: 0.2s linear;
+  transform: scale(1.05, 1.05);
+  color: #eeee;
+}
+.page__rightContainer > h4 {
+  position: absolute;
+  top: 30px;
+  left: 20px;
+  line-height: 1.5;
+  font-size: 18px;
+  font-weight: 300;
+}
+@media (min-width: 980px) {
+  html {
+  }
+  .modal {
+    display: none;
+  }
+}
+
+@media (max-width: 991px) {
+  html {
+    font-size: 90%;
+  }
+
+  .header {
+    padding: 1.5rem 2rem;
+  }
+
+  .header__right > span {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 15px;
+  }
+  .modal {
+    margin-top: -500px;
+  }
+  section {
+    padding: 2rem;
+  }
+}
+
+@media (max-width: 980px) {
+  .header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .header__logo {
+    height: 200px;
+    width: 100%;
+  }
+  .header__left > .header__list {
+    display: none;
+  }
+  .header__arrowdown {
+    display: block;
+    font-size: 30px;
+    display: flex;
+    align-items: center;
+    color: #eeee;
+    margin-bottom: 15px;
+    margin-left: 5px;
+    cursor: pointer;
+  }
+  .header__arrowdown:hover {
+    transform: scale(1, 1.2);
+    transition: 0.3s;
+  }
+  .header__center {
+    display: none;
+  }
+  .header__span {
+    display: inline-block;
+  }
+
+  .header__right > ul {
+    display: none;
+  }
+
+  .pages {
+    width: 100%;
+    height: 100%;
+    background-image: url("./../images/woman-01.png");
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #eeee;
+  }
+  .page__container {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+  }
+  .page__leftContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 100px;
+    text-align: center;
+  }
+  .page__right {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .page__rightContainer > h4 {
+    position: absolute;
+    top: 30px;
+    left: 20px;
+    line-height: 1.5;
+    font-size: 12px;
+  }
+
+  .pages__button {
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+  }
+  .pages__button > button {
+    margin-bottom: 20px;
+    width: 70%;
+
+    padding: 10px;
+  }
+}
+
+@media (max-width: 450px) {
+  html {
+    font-size: 70%;
+  }
+}

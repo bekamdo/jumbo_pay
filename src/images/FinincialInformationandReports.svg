@@ -1,0 +1,29 @@
+<svg id="Component_151_7" data-name="Component 151 – 7" xmlns="http://www.w3.org/2000/svg" width="581" height="578" viewBox="0 0 581 578">
+  <g id="Ellipse_303" data-name="Ellipse 303" fill="none" stroke="#fff" stroke-width="8">
+    <circle cx="288" cy="288" r="288" stroke="none"/>
+    <circle cx="288" cy="288" r="284" fill="none"/>
+  </g>
+  <text id="Financial_Information_Reports_" data-name="Financial Information
+&amp; Reports
+" transform="translate(289.5 382.5)" fill="#fff" font-size="52" font-family="Metropolis-Medium, Metropolis" font-weight="500"><tspan x="-262.366" y="0">Financial Information</tspan><tspan x="-123.734" y="76">&amp; Reports</tspan><tspan x="0" y="152"></tspan></text>
+  <g id="Group_4441" data-name="Group 4441" transform="translate(2076 -215)" opacity="0">
+    <circle id="Ellipse_304" data-name="Ellipse 304" cx="288" cy="288" r="288" transform="translate(-2071 217)" fill="#fff"/>
+    <text id="IPRS_CRB_Reports_Trade_information_and_Financial_tips" data-name="IPRS, CRB Reports, 
+Trade information and 
+Financial tips" transform="translate(-1776 391)" font-size="37" font-family="Metropolis-Bold, Metropolis" font-weight="700"><tspan x="-178.081" y="0">IPRS, CRB Reports, </tspan><tspan x="-209.161" y="78">Trade information and </tspan><tspan x="-120.25" y="156">Financial tips</tspan></text>
+    <rect id="BG" width="257.694" height="96.626" rx="12" transform="translate(-1919.13 594.961)" fill="#0aa114"/>
+    <text id="Try_it_now_" data-name="Try it now
+" transform="translate(-1804 654)" fill="#fff" font-size="29" font-family="Metropolis-SemiBold, Metropolis" font-weight="600" letter-spacing="-0.015em"><tspan x="-69.107" y="0">Try it now</tspan><tspan x="0" y="15"></tspan></text>
+    <g id="Group_4435" data-name="Group 4435" transform="translate(-1741.134 635.081)">
+      <path id="Path_3959" data-name="Path 3959" d="M0,0,10.356,12.547,21.907,0" transform="matrix(-0.017, -1, 1, -0.017, 18.255, 22.123)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="4"/>
+    </g>
+  </g>
+  <g id="decrease" transform="translate(172.948 94.177)">
+    <path id="Path_190" data-name="Path 190" d="M200.087,31.514H4.257a4.257,4.257,0,1,1,0-8.514H200.087a4.257,4.257,0,1,1,0,8.514Z" transform="translate(0 164.309)" fill="#fff" stroke="#fff" stroke-width="0.2"/>
+    <path id="Path_191" data-name="Path 191" d="M63.829,76.6H21.257A4.259,4.259,0,0,1,17,72.343V25.514A8.528,8.528,0,0,1,25.514,17H59.572a8.528,8.528,0,0,1,8.514,8.514V72.343A4.259,4.259,0,0,1,63.829,76.6ZM25.514,68.086H59.572V25.514H25.514Z" transform="translate(127.744 119.223)" fill="#fff" stroke="#fff" stroke-width="0.2"/>
+    <path id="Path_192" data-name="Path 192" d="M55.829,121.686H13.257A4.259,4.259,0,0,1,9,117.429V19.514A8.528,8.528,0,0,1,17.514,11H51.572a8.528,8.528,0,0,1,8.514,8.514v97.915A4.259,4.259,0,0,1,55.829,121.686Zm-38.314-8.514H51.572V19.514H17.514Z" transform="translate(67.629 74.137)" fill="#fff" stroke="#fff" stroke-width="0.2"/>
+    <path id="Path_193" data-name="Path 193" d="M47.829,166.772H5.257A4.259,4.259,0,0,1,1,162.515v-149A8.528,8.528,0,0,1,9.514,5H43.572a8.528,8.528,0,0,1,8.514,8.514v149A4.259,4.259,0,0,1,47.829,166.772ZM9.514,158.258H43.572V13.514H9.514Z" transform="translate(7.514 29.051)" fill="#fff" stroke="#fff" stroke-width="0.2"/>
+    <path id="Path_194" data-name="Path 194" d="M92.888,86.138a4.276,4.276,0,0,1-3.014-1.243L13.245,8.266a4.257,4.257,0,0,1,6.02-6.02L95.894,78.875a4.253,4.253,0,0,1-3.006,7.263Z" transform="translate(90.17 -1.001)" fill="#fff" stroke="#fff" stroke-width="0.2"/>
+    <path id="Path_195" data-name="Path 195" d="M55.314,48.572H21.257a4.257,4.257,0,0,1,0-8.514h29.8v-29.8a4.257,4.257,0,1,1,8.514,0V44.314A4.259,4.259,0,0,1,55.314,48.572Z" transform="translate(127.744 36.565)" fill="#fff" stroke="#fff" stroke-width="0.2"/>
+  </g>
+</svg>
